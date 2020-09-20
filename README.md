@@ -1,5 +1,4 @@
-# UrlSorting
-// This code will sort the request(get,post,put) on the basis of their frequency
+# CSV PARSER
 //  Add input file in current directory--> inpput.csv (comma seprated value)
 
 //Compile main file -->  javac Main.java
